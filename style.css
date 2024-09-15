@@ -1,0 +1,17 @@
+body
+{
+    text-align: center;
+}
+
+h1
+{
+    color: red;
+}
+
+p
+{
+    font-family: 'Courier New', Courier, monospace;
+}
+img {
+    size: 30%;
+}
